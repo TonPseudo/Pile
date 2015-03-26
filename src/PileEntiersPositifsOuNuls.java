@@ -22,6 +22,9 @@ public class PileEntiersPositifsOuNuls
 		element[taille] = 0;
 		taille = taille-1;
 		
+	
+	
+	
 		
 	}
 }
